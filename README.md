@@ -1,6 +1,6 @@
-# 🍲 SoupStock
+# 🍲 SoupStock 
 
-A self-hostable family fridge inventory system, built for households that cook
+A self hostable family fridge inventory system, built for households that cook
 Cantonese soups and always seem to buy the same ingredients twice.
 
 > *"Do we still have lotus root at home?"*
@@ -10,8 +10,8 @@ Cantonese soups and always seem to buy the same ingredients twice.
 
 ## Why This Exists
 
-Cantonese slow-cooked soups (老火靚湯) use a wide variety of ingredients —
-dried mushrooms, red dates, lotus root, pork bones, ginger, and more.
+Cantonese slow cooked soups (老火湯) use a wide variety of ingredients 
+carrots, green carrots, 南北杏, pork bones, ginger, and more.
 Most of them live in the fridge or pantry, and family members constantly lose
 track of what's already there.
 
@@ -117,9 +117,9 @@ SoupStock/
 
 ---
 
-## Local Development Setup
+## Local Development Setuppppppppppppppp
 
-Follow these steps to run the project on your own computer.
+Follow these steps to run the project on your own computer. SO everyone can have their own cloud fridge storage!
 
 ### Prerequisites
 
