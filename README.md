@@ -1,4 +1,4 @@
-# 🍲 SoupStock 
+# 🍲 SoupStock 🇭🇰 
 
 A self hostable family fridge inventory system, built for households that cook
 Cantonese soups and always seem to buy the same ingredients twice.
