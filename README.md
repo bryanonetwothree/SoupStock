@@ -3,7 +3,7 @@
 A self hostable family fridge inventory system, built for households that cook
 Cantonese soups and always seem to buy the same ingredients twice.
 
-> *"Do we still have lotus root at home?"*
+> *"屋企仲有冇無花果?"*
 > Now you can check from the grocery store.
 
 ---
